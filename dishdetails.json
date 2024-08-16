@@ -1,0 +1,29 @@
+{
+    "dish": [
+        {
+            "id": "1",
+            "title": "Beef Steak",
+            "desc": "Beef steak dish also known as \"Bistek Tagalog\" that features tender slices of beef cooked in a rich sauce made from soy sauce, calamansi (or lemon), onions, and sometimes garlic. It's typically served with rice and is often garnished with fried onions."
+        },
+        {
+            "id": "2",
+            "title": "Caldereta",
+            "desc": " savory and slightly spicy stew that's renowned for its deep, rich flavor. The dish is typically made with beef, though variations can include pork, goat, or chicken. The meat is simmered in a flavorful sauce made from tomatoes, liver spread, and a blend of spices. The dish is often garnished with vegetables and sometimes served with a side of rice."
+        },
+        {
+            "id":"3",
+            "title" : "Fried Chicken",
+            "desc" : "Filipino-style fried chicken is characterized by its crispy, golden-brown skin and juicy, flavorful meat. The chicken is typically marinated in a combination of local ingredients to enhance its taste, then coated in a seasoned flour mixture and fried until perfectly crispy. It’s often served with a side of rice and a variety of dipping sauces or sides."
+        },
+        {
+            "id":"4",
+            "title": "Mango Float",
+            "desc": "Mango Float is a popular and refreshing Filipino dessert that’s known for its creamy, sweet, and fruity flavors. It’s a no-bake, chilled dessert that's particularly enjoyed during hot weather or special occasions. The dessert is characterized by its layers of creamy filling and ripe mangoes, and it’s a favorite choice for family gatherings and celebrations."
+        },
+        {
+            "id":"5",
+            "title": "Lumpiang Shanghai",
+            "desc": "Lumpiang Shanghai is a popular Filipino dish that consists of savory, crispy spring rolls filled with a mixture of ground meat and vegetables. It's a staple at many Filipino gatherings, celebrations, and as an everyday snack. The dish is known for its crispy texture, flavorful filling, and versatility."
+        }
+    ]
+}
